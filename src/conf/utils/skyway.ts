@@ -5,7 +5,7 @@ export const initPeer = (forceTurn: boolean): Promise<Peer> => {
     const key = "a5c7e4d6-afd7-4e17-8ecf-46c28fc2ceda";
     const peer = new Peer({
       key: key,
-      debug: 2,
+      debug: 3,
       config: {
         iceTransportPolicy: forceTurn ? "relay" : "all",
       },
