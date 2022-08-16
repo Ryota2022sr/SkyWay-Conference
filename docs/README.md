@@ -1,2 +1,2 @@
 # SkyWay-Conference
-[Live example](https://example.webrtc.ecl.ntt.com/p2p-data/index.html)
+[Live example](https://ryota2022sr.github.io/SkyWay-Conference/docs/index.html)
